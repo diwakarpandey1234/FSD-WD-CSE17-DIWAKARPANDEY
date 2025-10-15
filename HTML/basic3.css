@@ -1,0 +1,14 @@
+div{
+    height: 100px;
+    width:200px;
+    background-image:url("khet_7.jpg");
+    background-size: cover;
+    padding:20px;
+    margin:20px;
+    color:black;
+    text-align:center;
+    border: 2px solid black;
+    position:fixed;
+    left:20px;
+    top:100px; 
+} 
