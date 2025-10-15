@@ -1,0 +1,22 @@
+h2{
+     margin-left: 150px;
+}
+img{
+    border: 4px solid #ddd;
+    border-radius: 4%;
+    padding: 5px;
+    width: 300px;
+    border-color: black;
+    background-color: rgb(47, 136, 106);
+    margin-left: 100px;
+}
+#id1{
+
+       display:block;
+       margin-left: auto;
+       margin-right:auto ;
+       margin-top: 50;
+       width: 500px;
+       height: 400px;
+       background-color: darkseagreen;
+}
