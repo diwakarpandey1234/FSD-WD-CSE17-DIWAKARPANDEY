@@ -9,6 +9,7 @@ img{
     border-color: black;
     background-color: rgb(47, 136, 106);
     margin-left: 100px;
+    filter grayscale(100%): ;
 }
 #id1{
 
