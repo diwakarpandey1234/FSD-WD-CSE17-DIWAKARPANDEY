@@ -1,7 +1,12 @@
 body{
+   
     background:url("lotus temple 2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+}
+a{  
+     text-decoration: none;
+    transition:color 0.3s ease;
 }
 a:hover{
     color:rgba(255, 0, 0, 0.297);
@@ -10,4 +15,7 @@ a:hover{
 table:hover{
     transform:scale(1.20);
     transition:trnasform 0.5s ease;
+}
+table{
+    background-color: azure;
 }
